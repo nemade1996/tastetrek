@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import { createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 import ReactDOM from "react-dom/client";
 import { Provider } from 'react-redux';
 import Store from "../src/utils/Store";
@@ -120,6 +121,6 @@ const appRouter = createHashRouter([
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<RouterProvider router={appRouter} basename="/tastetrek" />);
+root.render(<RouterProvider router={appRouter}/>);
 
 export default App;
