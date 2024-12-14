@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tastetrek/static/css/main.cc11cb0f.css",
+    "main.js": "/tastetrek/static/js/main.beb7a37d.js",
+    "static/js/453.fa1d690d.chunk.js": "/tastetrek/static/js/453.fa1d690d.chunk.js",
+    "static/media/blog-7.jpg": "/tastetrek/static/media/blog-7.f75571fd755524860803.jpg",
+    "static/media/slider1.jpg": "/tastetrek/static/media/slider1.c669a1a7145c0ee053cc.jpg",
+    "static/media/aboutapp.jpg": "/tastetrek/static/media/aboutapp.c25fc66316631ad532cd.jpg",
+    "static/media/blog-6.jpg": "/tastetrek/static/media/blog-6.cc5815e1c96ec81c010d.jpg",
+    "static/media/blog-5.jpg": "/tastetrek/static/media/blog-5.d691799b5b600cd5648f.jpg",
+    "static/media/slider2.jpg": "/tastetrek/static/media/slider2.569559afa872d0f134bc.jpg",
+    "static/media/blog-3.jpg": "/tastetrek/static/media/blog-3.e6362381e816b03dd1a9.jpg",
+    "static/media/blog-4.jpg": "/tastetrek/static/media/blog-4.a033b4514d9139ecef64.jpg",
+    "static/media/blog-1.jpg": "/tastetrek/static/media/blog-1.b9709177f6b5f4c7b012.jpg",
+    "static/media/blog-8.jpg": "/tastetrek/static/media/blog-8.1444ac96babb7049047a.jpg",
+    "static/media/logo-black.png": "/tastetrek/static/media/logo-black.4d8dfb9205e099f6f676.png",
+    "static/media/blog-2.jpg": "/tastetrek/static/media/blog-2.da20ee4edd4034640e1f.jpg",
+    "static/media/empty-cart.png": "/tastetrek/static/media/empty-cart.ecbf047a0b3981bd60c5.png",
+    "static/media/dummy.jpg": "/tastetrek/static/media/dummy.8eb9aa62f2e05bf5c0f3.jpg",
+    "static/media/rating.png": "/tastetrek/static/media/rating.3f04a30e72526c303401.png",
+    "index.html": "/tastetrek/index.html",
+    "main.cc11cb0f.css.map": "/tastetrek/static/css/main.cc11cb0f.css.map",
+    "main.beb7a37d.js.map": "/tastetrek/static/js/main.beb7a37d.js.map",
+    "453.fa1d690d.chunk.js.map": "/tastetrek/static/js/453.fa1d690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc11cb0f.css",
+    "static/js/main.beb7a37d.js"
+  ]
+}
