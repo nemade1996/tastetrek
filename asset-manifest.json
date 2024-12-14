@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tastetrek/static/css/main.cc11cb0f.css",
-    "main.js": "/tastetrek/static/js/main.a6c24cdc.js",
+    "main.js": "/tastetrek/static/js/main.79bf3f74.js",
     "static/js/453.fa1d690d.chunk.js": "/tastetrek/static/js/453.fa1d690d.chunk.js",
     "static/media/blog-7.jpg": "/tastetrek/static/media/blog-7.f75571fd755524860803.jpg",
     "static/media/slider1.jpg": "/tastetrek/static/media/slider1.c669a1a7145c0ee053cc.jpg",
@@ -20,11 +20,11 @@
     "static/media/rating.png": "/tastetrek/static/media/rating.3f04a30e72526c303401.png",
     "index.html": "/tastetrek/index.html",
     "main.cc11cb0f.css.map": "/tastetrek/static/css/main.cc11cb0f.css.map",
-    "main.a6c24cdc.js.map": "/tastetrek/static/js/main.a6c24cdc.js.map",
+    "main.79bf3f74.js.map": "/tastetrek/static/js/main.79bf3f74.js.map",
     "453.fa1d690d.chunk.js.map": "/tastetrek/static/js/453.fa1d690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc11cb0f.css",
-    "static/js/main.a6c24cdc.js"
+    "static/js/main.79bf3f74.js"
   ]
 }
